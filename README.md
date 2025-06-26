@@ -1,10 +1,13 @@
-- Hi there, I’m @haleyplaas! a PhD Candidate at UNC-Chapel Hill. I study aerosol emissions from harmful cyanobacterial blooms to inform public health risks. 
-
-- I’m interested in careers at the intersection of environmental quality and public health. I'm using GitHub to share my research with stakeholders in the state of North Carolina and the science community beyond.
-
-- I’m currently learning data cleaning, data visualization, and regression modeling in R! 
-
-- You can reach me at hplaas@live.unc.edu 
+- Hi there, I’m @haleyplaas! Associate Research Scientist at Columbia University / NASA Goddard Institute for Space Studies.
+  
+- This account serves:
+     1) to provide transparent and open access to my data analyses and visualizations,
+     2) to maintain up to date version control for my various research projects, and
+     3) as an online repository for data files and coding scripts for my scientific publications
+ 
+- All of my files are publically available and labeled for cited re-use (labeled Creative Commons Attribution 4.0)
+  
+- You can reach me at hep2126@columbia.edu with further data requests or questions pertaining to my code. 
 
 <!---
 haleyplaas/haleyplaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
