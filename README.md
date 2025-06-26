@@ -1,4 +1,4 @@
-- Hi there, I’m @haleyplaas! Associate Research Scientist at Columbia University / NASA Goddard Institute for Space Studies.
+- Hi there, I’m @haleyplaas! Associate Research Scientist at Columbia University / NASA Goddard Institute for Space Studies
   
 - This account serves:
      1) to provide transparent and open access to my data analyses and visualizations,
@@ -7,7 +7,7 @@
  
 - All of my files are publically available and labeled for cited re-use (labeled Creative Commons Attribution 4.0)
   
-- You can reach me at hep2126@columbia.edu with further data requests or questions pertaining to my code. 
+- You can reach me at hep2126@columbia.edu with further data requests or questions pertaining to my code
 
 <!---
 haleyplaas/haleyplaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
